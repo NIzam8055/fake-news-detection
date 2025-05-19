@@ -4,7 +4,7 @@ This project aims to detect fake news articles using natural language processing
 
 ## 📁 Files
 
-- `fake_news_detection.ipynb`: Main notebook containing code, preprocessing, training, and evaluation.
+- `NM-Project sc.pdf`: Main notebook containing code, preprocessing, training, and evaluation.
 
 ## ⚙️ Technologies Used
 
@@ -26,7 +26,7 @@ This project aims to detect fake news articles using natural language processing
 ## ▶️ How to Run
 
 1. Download or clone the repository.
-2. Open `fake_news_detection.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `NM-Project sc.pdf` in Jupyter Notebook or Google Colab.
 3. Run the cells step-by-step to train and evaluate the model.
 
 ## 📊 Sample Output
